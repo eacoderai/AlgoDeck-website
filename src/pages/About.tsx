@@ -211,20 +211,20 @@ export default function About() {
                 </h2>
                 <div className="space-y-6 text-[#94A3B8] leading-relaxed">
                   <p>
-                    AlgoDeck was founded in 2026 by a team of experienced traders and software engineers who were frustrated
+                    AlgoDeck was founded in 2025 by Christopher Anthony and a team of experienced traders and software engineers who were frustrated
                     by the complexity and cost of existing algorithmic trading platforms.
                   </p>
                   <p>
-                    We set out to build something different—a mobile-first platform that puts powerful automation tools 
+                    We set out to build something different a mobile-first platform that puts powerful automation tools 
                     directly in your pocket, allowing you to manage your trading empire from anywhere in the world.
                   </p>
                   <div className="pt-6 border-t border-white/5 flex items-center gap-6">
                     <div>
-                      <div className="text-2xl font-bold text-white">10k+</div>
+                      <div className="text-2xl font-bold text-white">2k+</div>
                       <div className="text-xs uppercase tracking-widest text-[#64748B]">Active Traders</div>
                     </div>
                     <div>
-                      <div className="text-2xl font-bold text-white">100M+</div>
+                      <div className="text-2xl font-bold text-white">1M+</div>
                       <div className="text-xs uppercase tracking-widest text-[#64748B]">Trades Executed</div>
                     </div>
                   </div>

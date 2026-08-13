@@ -169,7 +169,7 @@ export default function Terms() {
                 marginBottom: '16px',
               }}
             >
-              When a user purchases or clones a strategy from the AlgoDeck Marketplace, a permanent, independent copy of the algorithmic rules is transferred to the buyer's account. Because this is a direct transfer of intellectual property and execution logic, all marketplace purchases are strictly non-refundable. The original creator relinquishes control over the buyers specific cloned instance, and the buyer assumes full responsibility and risk for the execution, modification, and financial outcomes of their cloned strategy.
+              When a user purchases or clones a strategy from the AlgoDeck Marketplace, a permanent, independent copy of the algorithmic rules is transferred to the buyer's/clonner account. Because this is a direct transfer of intellectual property and execution logic, all marketplace purchases are strictly non-refundable. The original creator relinquishes control over the buyer's/clonner specific cloned instance, and the buyer/clonner assumes full responsibility and risk for the execution, modification, and financial outcomes of their cloned strategy.
             </p>
           </section>
 

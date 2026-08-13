@@ -480,11 +480,11 @@ export default function Pricing() {
             },
             {
               q: 'Do you offer refunds?',
-              a: 'We offer a 7-day money-back guarantee for first-time subscribers. Performance fees are non-refundable as they\'re based on realized profits.'
+              a: 'We offer a 3-day money-back guarantee for first-time subscribers. Performance fees are non-refundable as they\'re based on realized profits.'
             },
             {
               q: 'Can I try before buying?',
-              a: 'Yes! You can download the app and use our Free tier to build and deploy 1 active trading bot. You only need a paid subscription to connect more accounts or run multiple bots.'
+              a: 'Yes! You can download the app and use our Free tier to build and backtest multiple trading bot. You only need a paid subscription to connect more accounts or run multiple bots.'
             }
           ].map((faq, i) => (
             <div 

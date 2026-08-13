@@ -86,7 +86,7 @@ export default function Privacy() {
               AI Training
             </h3>
             <p style={{ marginBottom: '16px' }}>
-              We may use anonymized, aggregated trading data to improve our AI models. Private trading strategies are not used to train models in a way that would expose your specific intellectual property to other users. You may opt-out of data usage for AI improvements in your account settings.
+              We may use anonymized, aggregated trading data to improve our AI models. Private trading strategies are not used to train models in a way that would expose your specific intellectual property to other users. You may opt-out of data usage for AI improvements by reaching out to dpo@algodeck.app .
             </p>
           </div>
 
@@ -150,7 +150,7 @@ export default function Privacy() {
                 <strong style={{ color: '#FFFFFF' }}>Active accounts:</strong> Duration of service
               </li>
               <li style={{ marginBottom: '8px' }}>
-                <strong style={{ color: '#FFFFFF' }}>Closed accounts:</strong> 90 days for recovery, then deleted
+                <strong style={{ color: '#FFFFFF' }}>Closed accounts:</strong> 30 days for recovery, then deleted
               </li>
               <li style={{ marginBottom: '8px' }}>
                 <strong style={{ color: '#FFFFFF' }}>Financial records:</strong> 7 years for legal compliance
@@ -186,7 +186,7 @@ export default function Privacy() {
               Children's Privacy
             </h3>
             <p style={{ marginBottom: '16px' }}>
-              AlgoDeck is not intended for users under 18. Trading in financial markets involves significant risk and is only appropriate for adults.
+              AlgoDeck is not intended for users under 17. Trading in financial markets involves significant risk and is only appropriate for adults.
             </p>
           </div>
 

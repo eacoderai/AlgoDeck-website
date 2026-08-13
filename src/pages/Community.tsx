@@ -334,7 +334,7 @@ export default function Community() {
           </div>
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Social Insights & Collaboration</h2>
           <p className="text-lg text-[#94A3B8] max-w-2xl mx-auto leading-relaxed">
-            AlgoDeck isn't just a tool; it's a social network for algorithmic traders. Discuss market trends, share your backtest results, and collaborate with developers globally.
+            AlgoDeck isn't just a tool; it's a social network for algorithmic traders. Discuss market trends, share your backtest results, and collaborate with Traders globally.
           </p>
           <div className="max-w-[500px] mx-auto relative mt-12 mb-12 flex justify-center hover:scale-105 transition-transform duration-500">
           <img 
